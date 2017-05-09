@@ -1,0 +1,2 @@
+Widget:	com.test.baidumap:id/id_tv_markforviews
+com.test.baidumap:id/textcity

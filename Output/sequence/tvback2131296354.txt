@@ -1,0 +1,2 @@
+Widget:	com.test.baidumap:id/tvback
+com.test.baidumap:id/textcity

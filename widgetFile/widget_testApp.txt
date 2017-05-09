@@ -1,0 +1,3 @@
+android.widget.Button	bt_start	com.example.testapp:id/button_startActivity	com.example.testapp/.MainActivity
+android.widget.Button	bt_dialog	com.example.testapp:id/button_openDialog	com.example.testapp/.MainActivity
+android.widget.ImageButton	ig_exit	com.example.testapp:id/imagebutton_exit	com.example.testapp/.MainActivity

@@ -1,0 +1,5 @@
+Widget:	com.test.baidumap:id/country_lvcountry
+com.test.baidumap:id/listview
+com.test.baidumap:id/listview
+com.test.baidumap:id/listview
+com.test.baidumap:id/listview

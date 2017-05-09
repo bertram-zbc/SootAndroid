@@ -1,0 +1,2 @@
+Widget:	com.test.baidumap:id/id_author
+com.test.baidumap:id/textView2

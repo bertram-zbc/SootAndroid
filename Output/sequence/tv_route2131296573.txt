@@ -1,0 +1,2 @@
+Widget:	com.test.baidumap:id/tv_route
+com.test.baidumap:id/textcity

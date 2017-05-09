@@ -1,0 +1,3 @@
+Widget:	com.test.baidumap:id/imgguide
+com.test.baidumap:id/textcity
+com.test.baidumap:id/textcity

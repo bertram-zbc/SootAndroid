@@ -1,0 +1,4 @@
+Widget:	com.test.baidumap:id/editText1
+com.test.baidumap:id/editText1	"!0!"
+com.test.baidumap:id/editText2	"!1!"
+com.test.baidumap:id/editText3	"!1!"

@@ -1,0 +1,7 @@
+;/home/hadoop/gator-3.2/SootAndroid/LogicConstraints/nullnull/0.stm2
+(declare-const webView String)
+(push)
+(assert (= webView ))
+(check-sat)
+(get-model)
+(pop)

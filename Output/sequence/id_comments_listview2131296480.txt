@@ -1,0 +1,2 @@
+Widget:	com.test.baidumap:id/id_comments_listview
+com.test.baidumap:id/imgsearch

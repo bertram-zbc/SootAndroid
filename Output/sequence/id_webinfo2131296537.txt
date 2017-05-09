@@ -1,0 +1,5 @@
+Widget:	com.test.baidumap:id/id_webinfo
+com.test.baidumap:id/textView2
+com.test.baidumap:id/textView2
+com.test.baidumap:id/cirleimageview
+com.test.baidumap:id/cirleimageview

@@ -1,0 +1,3 @@
+Widget:	com.test.baidumap:id/id_myfriend
+com.test.baidumap:id/like
+com.test.baidumap:id/like

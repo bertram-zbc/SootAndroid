@@ -1,0 +1,4 @@
+Widget:	com.test.baidumap:id/image_comment
+com.test.baidumap:id/like
+com.test.baidumap:id/like
+com.test.baidumap:id/like

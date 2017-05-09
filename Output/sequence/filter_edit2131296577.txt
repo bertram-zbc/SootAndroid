@@ -1,0 +1,2 @@
+Widget:	com.test.baidumap:id/filter_edit
+com.test.baidumap:id/listview

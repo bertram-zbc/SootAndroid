@@ -1,0 +1,4 @@
+Widget:	com.test.baidumap:id/id_btn_publish
+com.test.baidumap:id/like
+com.test.baidumap:id/like
+com.test.baidumap:id/like

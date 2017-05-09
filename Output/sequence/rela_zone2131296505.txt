@@ -1,0 +1,2 @@
+Widget:	com.test.baidumap:id/rela_zone
+com.test.baidumap:id/id_type

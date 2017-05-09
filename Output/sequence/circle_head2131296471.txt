@@ -1,0 +1,4 @@
+Widget:	com.test.baidumap:id/circle_head
+com.test.baidumap:id/like
+com.test.baidumap:id/like
+com.test.baidumap:id/like

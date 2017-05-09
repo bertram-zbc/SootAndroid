@@ -1,0 +1,2 @@
+Widget:	com.test.baidumap:id/listview
+com.test.baidumap:id/tv_load

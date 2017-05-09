@@ -1,0 +1,7 @@
+;/home/hadoop/gator-3.2/SootAndroid/LogicConstraints/filter_edit2131296577/0.stm2
+(declare-const listview String)
+(push)
+(assert (= listview ))
+(check-sat)
+(get-model)
+(pop)
